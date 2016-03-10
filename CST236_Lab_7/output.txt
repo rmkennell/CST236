@@ -466,3 +466,2307 @@ Question: Give me a number between 1 and 10
 Result: 6
 Output time: 7.41481781006e-05
  
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 6.79492950439e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 6.19888305664e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 5.91278076172e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 4.60147857666e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 6.48498535156e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 6.29425048828e-05
+ 
+Question: What is the date?
+Result: Mon Mar  7 21:56:14 2016
+Output time: 5.69820404053e-05
+ 
+Question: What time is it?
+Result: Mon Mar  7 21:56:14 2016
+Output time: 3.09944152832e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 6.29425048828e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.60012054443e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.50475311279e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 6.48498535156e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 4.38690185547e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 4.79221343994e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 5.29289245605e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 3
+Output time: 0.000114917755127
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 5.88893890381e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 8
+Output time: 6.29425048828e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 9.89437103271e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 6.103515625e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 6.00814819336e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 4.60147857666e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 8.01086425781e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 6.07967376709e-05
+ 
+Question: What is the date?
+Result: Mon Mar  7 21:57:09 2016
+Output time: 5.81741333008e-05
+ 
+Question: What time is it?
+Result: Mon Mar  7 21:57:09 2016
+Output time: 3.19480895996e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 5.79357147217e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.60012054443e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.48091125488e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 5.60283660889e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.60012054443e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.50475311279e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 5.10215759277e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 5
+Output time: 5.3882598877e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 6.38961791992e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 3
+Output time: 6.72340393066e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 7.20024108887e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 5.29289245605e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 5.91278076172e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.71932983398e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 6.50882720947e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 6.69956207275e-05
+ 
+Question: What is the date?
+Result: Mon Mar  7 21:57:24 2016
+Output time: 6.48498535156e-05
+ 
+Question: What time is it?
+Result: Mon Mar  7 21:57:24 2016
+Output time: 8.29696655273e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 6.19888305664e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.50475311279e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.50475311279e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 6.00814819336e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.88622283936e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.69548797607e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 4.60147857666e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 3
+Output time: 4.79221343994e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 5.79357147217e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 4
+Output time: 5.88893890381e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 7.5101852417e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 8.6784362793e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 6.89029693604e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 4.29153442383e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 6.00814819336e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 5.00679016113e-05
+ 
+Question: What is the date?
+Result: Mon Mar  7 22:03:03 2016
+Output time: 5.60283660889e-05
+ 
+Question: What time is it?
+Result: Mon Mar  7 22:03:03 2016
+Output time: 4.48226928711e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 5.00679016113e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.60012054443e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.40938568115e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 6.60419464111e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 4.19616699219e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.60012054443e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.40938568115e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 4
+Output time: 7.9870223999e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 0.000104904174805
+ 
+Question: Give me a number between 1 and 10
+Result: 6
+Output time: 6.103515625e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 6.50882720947e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 6.89029693604e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 7.00950622559e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 4.91142272949e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 6.38961791992e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 5.98430633545e-05
+ 
+Question: What is the date?
+Result: Mon Mar  7 22:03:45 2016
+Output time: 9.89437103271e-05
+ 
+Question: What time is it?
+Result: Mon Mar  7 22:03:45 2016
+Output time: 5.91278076172e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 5.98430633545e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 4.10079956055e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.79085540771e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 6.29425048828e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 6.98566436768e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.81469726562e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 4.10079956055e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 3
+Output time: 5.69820404053e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 6.41345977783e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 4
+Output time: 6.31809234619e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 6.69956207275e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 0.000106811523438
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 6.19888305664e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.69548797607e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 5.79357147217e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 6.38961791992e-05
+ 
+Question: What is the date?
+Result: Mon Mar  7 22:03:58 2016
+Output time: 6.29425048828e-05
+ 
+Question: What time is it?
+Result: Mon Mar  7 22:03:58 2016
+Output time: 3.91006469727e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 6.31809234619e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.60012054443e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.40938568115e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 7.10487365723e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 6.00814819336e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 5.88893890381e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 8.48770141602e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 5
+Output time: 5.3882598877e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 6.38961791992e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 9
+Output time: 6.69956207275e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 5.41210174561e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 5.10215759277e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 7.70092010498e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 4.29153442383e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 8.20159912109e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 5.29289245605e-05
+ 
+Question: What is the date?
+Result: Mon Mar  7 22:05:18 2016
+Output time: 6.60419464111e-05
+ 
+Question: What time is it?
+Result: Mon Mar  7 22:05:18 2016
+Output time: 7.58171081543e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 5.3882598877e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.60012054443e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 4.38690185547e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 4.6968460083e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 4.48226928711e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 4.60147857666e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 5
+Output time: 4.38690185547e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 5.19752502441e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 6
+Output time: 7.10487365723e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 5.10215759277e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 4.79221343994e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 6.50882720947e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 5.19752502441e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 6.19888305664e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 5.60283660889e-05
+ 
+Question: What is the date?
+Result: Mon Mar  7 22:06:29 2016
+Output time: 6.19888305664e-05
+ 
+Question: What time is it?
+Result: Mon Mar  7 22:06:29 2016
+Output time: 3.81469726562e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 6.29425048828e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 5.31673431396e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 4.50611114502e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 5.29289245605e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 4.19616699219e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.60012054443e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.50475311279e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 4
+Output time: 3.81469726562e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 4.6968460083e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 9
+Output time: 4.79221343994e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 5.10215759277e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.79085540771e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.69548797607e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.21865081787e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 5.10215759277e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.60012054443e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 17:59:52 2016
+Output time: 3.19480895996e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 17:59:52 2016
+Output time: 3.12328338623e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.71932983398e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.19480895996e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.09944152832e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 3.60012054443e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.50475311279e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.60012054443e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.00407409668e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 2
+Output time: 3.38554382324e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.88622283936e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 8
+Output time: 3.21865081787e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.60147857666e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.69548797607e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.69548797607e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.69548797607e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 7.00950622559e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.2901763916e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:00:02 2016
+Output time: 3.88622283936e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:00:02 2016
+Output time: 3.21865081787e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.50475311279e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.09944152832e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.09944152832e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 4.19616699219e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.19480895996e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.60012054443e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 5
+Output time: 3.38554382324e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.81469726562e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 5
+Output time: 3.60012054443e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.31537628174e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.81469726562e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.31401824951e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.60012054443e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 5.29289245605e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.60012054443e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:00:10 2016
+Output time: 3.50475311279e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:00:10 2016
+Output time: 3.19480895996e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 4.10079956055e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.09944152832e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.48091125488e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 3.69548797607e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.12328338623e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.00407409668e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.50475311279e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 1
+Output time: 4.00543212891e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.60012054443e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 2
+Output time: 3.69548797607e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.31537628174e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 4.6968460083e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 4.31537628174e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.19480895996e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 4.79221343994e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.19480895996e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:00:43 2016
+Output time: 3.60012054443e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:00:43 2016
+Output time: 3.19480895996e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.69548797607e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.19480895996e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.00407409668e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 3.79085540771e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.19480895996e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 4.19616699219e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 4
+Output time: 3.48091125488e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.981590271e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 6
+Output time: 3.69548797607e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 5.91278076172e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 5.50746917725e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 5.98430633545e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.69548797607e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 5.19752502441e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.09944152832e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:00:56 2016
+Output time: 3.19480895996e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:00:56 2016
+Output time: 3.60012054443e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.60012054443e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.09944152832e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.09944152832e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 5.60283660889e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.60012054443e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 4.29153442383e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.50475311279e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 1
+Output time: 3.21865081787e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 4.19616699219e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 6
+Output time: 3.60012054443e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 5.10215759277e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 5.50746917725e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 4.60147857666e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.19480895996e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 5.19752502441e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.31401824951e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:01:03 2016
+Output time: 3.50475311279e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:01:03 2016
+Output time: 3.60012054443e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.60012054443e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.19480895996e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.50475311279e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 4.38690185547e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.88622283936e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.48091125488e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 5
+Output time: 3.21865081787e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.19480895996e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 7
+Output time: 4.19616699219e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.31537628174e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.79085540771e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 4.6968460083e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.69548797607e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 4.81605529785e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.31401824951e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:01:27 2016
+Output time: 3.60012054443e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:01:27 2016
+Output time: 3.21865081787e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 5.00679016113e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.19480895996e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.00407409668e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 3.71932983398e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 4.10079956055e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 3
+Output time: 3.50475311279e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.91006469727e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 7
+Output time: 3.60012054443e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.50611114502e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.88622283936e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.60012054443e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.69548797607e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 4.50611114502e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.69548797607e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:01:40 2016
+Output time: 3.60012054443e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:01:40 2016
+Output time: 3.19480895996e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 4.10079956055e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.60012054443e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.09944152832e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 3.69548797607e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 5.88893890381e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 5.00679016113e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 5.48362731934e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 3
+Output time: 7.29560852051e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 6.19888305664e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 9
+Output time: 4.41074371338e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 5.29289245605e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.69548797607e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.69548797607e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.19480895996e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 4.81605529785e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.69548797607e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:02:10 2016
+Output time: 3.69548797607e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:02:10 2016
+Output time: 3.09944152832e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.60012054443e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.09944152832e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.88622283936e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 3.60012054443e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 4.2200088501e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.60012054443e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.50475311279e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 4
+Output time: 3.09944152832e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 4.6968460083e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 3
+Output time: 3.981590271e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.29153442383e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 4.41074371338e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.31401824951e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.19480895996e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 4.91142272949e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.69548797607e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:03:03 2016
+Output time: 3.60012054443e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:03:03 2016
+Output time: 3.09944152832e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.69548797607e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.09944152832e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.50475311279e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 3.50475311279e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.79085540771e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 4.00543212891e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 2
+Output time: 3.40938568115e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.91006469727e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 5
+Output time: 3.60012054443e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.29153442383e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.81469726562e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.60012054443e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.19480895996e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 5.81741333008e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.31401824951e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:03:22 2016
+Output time: 3.60012054443e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:03:22 2016
+Output time: 3.19480895996e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.71932983398e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.09944152832e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 2.98023223877e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 4.10079956055e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.60012054443e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.60012054443e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 4.29153442383e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 2
+Output time: 3.40938568115e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.48091125488e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 8
+Output time: 3.60012054443e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.41074371338e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.79085540771e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 4.19616699219e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.19480895996e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 4.91142272949e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.19480895996e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:03:39 2016
+Output time: 3.69548797607e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:03:39 2016
+Output time: 3.09944152832e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.19480895996e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.09944152832e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.50475311279e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 3.40938568115e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.09944152832e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 1
+Output time: 3.09944152832e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.91006469727e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 3
+Output time: 3.60012054443e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.79221343994e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 4.19616699219e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 4.19616699219e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.69548797607e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 5.07831573486e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 4.00543212891e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:03:49 2016
+Output time: 4.2200088501e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:03:49 2016
+Output time: 3.60012054443e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.88622283936e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.48091125488e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.38554382324e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 4.29153442383e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.981590271e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 4.48226928711e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 4.00543212891e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 4
+Output time: 4.81605529785e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 4.10079956055e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 9
+Output time: 4.38690185547e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.50611114502e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 4.31537628174e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.981590271e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 4.19616699219e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 4.48226928711e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.19480895996e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:03:50 2016
+Output time: 3.50475311279e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:03:50 2016
+Output time: 3.19480895996e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.50475311279e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.09944152832e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.00407409668e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 4.48226928711e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.38554382324e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 2
+Output time: 3.38554382324e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.60012054443e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 2
+Output time: 5.29289245605e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.19616699219e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.981590271e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 5.10215759277e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.19480895996e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 4.91142272949e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.2901763916e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:04:27 2016
+Output time: 3.21865081787e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:04:27 2016
+Output time: 3.09944152832e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.79085540771e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.60012054443e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.48091125488e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 3.60012054443e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.60012054443e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.48091125488e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.50475311279e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 2
+Output time: 3.79085540771e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 4.00543212891e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 4
+Output time: 3.31401824951e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.50611114502e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.60012054443e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 4.19616699219e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.19480895996e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 5.69820404053e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 4.10079956055e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:04:46 2016
+Output time: 4.10079956055e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:04:46 2016
+Output time: 3.21865081787e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.69548797607e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.60012054443e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.48091125488e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 4.00543212891e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.48091125488e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.00407409668e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 1
+Output time: 3.91006469727e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.60012054443e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 7
+Output time: 3.50475311279e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 5.10215759277e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 4.19616699219e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 4.50611114502e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.38554382324e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 5.19752502441e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 0.000113010406494
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:08:01 2016
+Output time: 3.91006469727e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:08:01 2016
+Output time: 4.50611114502e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 4.31537628174e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 4.19616699219e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.09944152832e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 4.19616699219e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 4.60147857666e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 3
+Output time: 3.48091125488e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 4.38690185547e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 7
+Output time: 4.29153442383e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.91142272949e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.69548797607e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.60012054443e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.19480895996e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 4.6968460083e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.69548797607e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:10:57 2016
+Output time: 3.60012054443e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:10:57 2016
+Output time: 4.38690185547e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.69548797607e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.19480895996e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.00407409668e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 5.19752502441e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.88622283936e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.48091125488e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.38554382324e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 4
+Output time: 3.50475311279e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.81469726562e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 7
+Output time: 3.69548797607e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.41074371338e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 4.41074371338e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.60012054443e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.19480895996e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 4.91142272949e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 4.38690185547e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:12:26 2016
+Output time: 3.60012054443e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:12:26 2016
+Output time: 3.60012054443e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 6.19888305664e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.60012054443e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.00407409668e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 4.6968460083e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.50475311279e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.50475311279e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 1
+Output time: 4.10079956055e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 4.48226928711e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 9
+Output time: 4.50611114502e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.31537628174e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.60012054443e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.69548797607e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.19480895996e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 4.6968460083e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.2901763916e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:13:03 2016
+Output time: 3.19480895996e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:13:03 2016
+Output time: 3.60012054443e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.50475311279e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.50475311279e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.50475311279e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 4.6968460083e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.50475311279e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.50475311279e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.00407409668e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 2
+Output time: 4.60147857666e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 4.19616699219e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 2
+Output time: 4.41074371338e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 5.60283660889e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 4.00543212891e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.79085540771e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.19480895996e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 5.69820404053e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.2901763916e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:13:50 2016
+Output time: 3.19480895996e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:13:50 2016
+Output time: 3.21865081787e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.69548797607e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.60012054443e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.38554382324e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 4.91142272949e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.50475311279e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 5
+Output time: 3.60012054443e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.60012054443e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 6
+Output time: 3.60012054443e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 5.69820404053e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.81469726562e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.60012054443e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.19480895996e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 5.72204589844e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.2901763916e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:14:17 2016
+Output time: 3.2901763916e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:14:17 2016
+Output time: 3.50475311279e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 5.91278076172e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 4.10079956055e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.60012054443e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 4.31537628174e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.48091125488e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.40938568115e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 4
+Output time: 4.10079956055e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 4.60147857666e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 5
+Output time: 5.19752502441e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 5.19752502441e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 3.69548797607e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 4.48226928711e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 3.60012054443e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 5.60283660889e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.21865081787e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:14:44 2016
+Output time: 3.48091125488e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:14:44 2016
+Output time: 3.19480895996e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 3.69548797607e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.50475311279e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.38554382324e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 3.81469726562e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.19480895996e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.09944152832e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 4.10079956055e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 1
+Output time: 3.38554382324e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 5.10215759277e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 2
+Output time: 5.48362731934e-05
+ 
+Question: What is the 4 digit of fibonacci?
+Result: 3
+Output time: 4.38690185547e-05
+ 
+Question: What is the 5 digit of fibonacci?
+Result: 5
+Output time: 4.10079956055e-05
+ 
+Question: What is the -6 digit of fibonacci?
+Result: invalid
+Output time: 3.60012054443e-05
+ 
+Question: Open the door hal
+Result: I'm afraid I can't do that ryankennell
+Output time: 4.91142272949e-05
+ 
+Question: What is the 6 digit of pi?
+Result: 5
+Output time: 4.81605529785e-05
+ 
+Question: What is the -6 digit of pi?
+Result: invalid
+Output time: 3.2901763916e-05
+ 
+Question: What is the date?
+Result: Wed Mar  9 18:15:23 2016
+Output time: 5.79357147217e-05
+ 
+Question: What time is it?
+Result: Wed Mar  9 18:15:23 2016
+Output time: 3.981590271e-05
+ 
+Question: Who let the dogs out?
+Result: ryankennell let the dogs out
+Output time: 4.19616699219e-05
+ 
+Question: Jason
+Result: 971-359-7954
+Output time: 3.60012054443e-05
+ 
+Question: Bob
+Result: No contact for Bob
+Output time: 3.00407409668e-05
+ 
+Question: 1980-01-01
+Result: Legal to drive
+Output time: 4.07695770264e-05
+ 
+Question: 2012-02-10
+Result: Not legal to drive
+Output time: 3.60012054443e-05
+ 
+Question: 503-879-0000
+Result: No name for 503-879-0000
+Output time: 3.48091125488e-05
+ 
+Question: 503-879-6375
+Result: Thomas
+Output time: 3.48091125488e-05
+ 
+Question: Give me a number between 1 and 6
+Result: 2
+Output time: 3.50475311279e-05
+ 
+Question: Give me a number between 10 and 10
+Result: Invalid range
+Output time: 3.60012054443e-05
+ 
+Question: Give me a number between 1 and 10
+Result: 8
+Output time: 3.60012054443e-05
+ 

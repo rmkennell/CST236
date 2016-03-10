@@ -8,6 +8,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CST236 - Lab 3/nose2.cfg" afterPath="$PROJECT_DIR$/../CST236 - Lab 3/nose2.cfg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CST236 - Lab 3/test/plugins/ReqTracer.py" afterPath="$PROJECT_DIR$/../CST236 - Lab 3/test/plugins/ReqTracer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CST236 - Lab 3/test/requirementTest.txt" afterPath="$PROJECT_DIR$/../CST236 - Lab 3/test/requirementTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CST236 - Lab 6/.coverage" afterPath="$PROJECT_DIR$/../CST236 - Lab 6/.coverage" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CST236 - Lab 6/output.txt" afterPath="$PROJECT_DIR$/../CST236 - Lab 6/output.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CST236 - Lab 6/test/Mock_test.py" afterPath="$PROJECT_DIR$/../CST236 - Lab 6/test/Mock_test.py" />
     </list>
@@ -40,11 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mock_test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Mock_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/Mock_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6917808">
-              <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="135" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="job_story_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/job_story_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.63013697">
+              <caret line="224" column="40" selection-start-line="224" selection-start-column="40" selection-end-line="224" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -107,6 +118,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -121,7 +133,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CST236 - Lab 7" />
+              <option name="myItemId" value="CST236_Lab_7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -131,7 +143,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CST236 - Lab 7" />
+              <option name="myItemId" value="CST236_Lab_7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -139,23 +151,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CST236 - Lab 2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CST236 - Lab 7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htmlcov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -391,7 +388,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18229167" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -758,13 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/job_story_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="239" column="33" selection-start-line="239" selection-start-column="33" selection-end-line="239" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/output.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -790,8 +780,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/Mock_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6917808">
-          <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="135" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/job_story_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63013697">
+          <caret line="224" column="40" selection-start-line="224" selection-start-column="40" selection-end-line="224" selection-end-column="40" />
           <folding />
         </state>
       </provider>
